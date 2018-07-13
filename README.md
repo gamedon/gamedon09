@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GameDon
 
-You can use the [editor on GitHub](https://github.com/gamedon/gamedon09/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello Everyone 
+
+The player in all platforms to start making the next big thing 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
